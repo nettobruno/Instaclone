@@ -23,6 +23,9 @@ Após ter instalado as dependências necessárias, rode os comandos abaixo em se
 
   $ npm install
 
+  # Em uma aba separada do terminal, mas dentro da pasta do instaclone, deixe rodando o seguinte comando:
+  $ yarn json-server server.json -d 1000 -w
+
   # Rode o projeto
   $ yarn start
 ```
