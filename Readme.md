@@ -1,5 +1,5 @@
 # Instaclone
-Este projeto foi desenvolvido junto com as aulas da [Rocketseat](https://www.youtube.com/watch?v=2nXsLpUCO20).
+Este projeto foi desenvolvido em React Native junto com as aulas da [Rocketseat](https://www.youtube.com/watch?v=2nXsLpUCO20).
 
 ## Instruções de instalação
 Para que tudo funcione corretamente é necessário que tenha instalado em sua máquina: 
